@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = __dirname + "/cache/kamlaOn.json";
 
-const OWNER_ID = "61577359509594"; // তোমার ফেসবুক আইডি এখানে বসাও
+const OWNER_ID = "100087277612935"; // তোমার ফেসবুক আইডি এখানে বসাও
 
 module.exports = {
   config: {
